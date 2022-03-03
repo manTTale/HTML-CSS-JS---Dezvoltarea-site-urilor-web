@@ -7,7 +7,7 @@
   padding: 10px;
   text-align: center;
 }
-.buttonStyle{
+.buttonStyle {
   border-radius: 4x;
   border: thin solid #f0e020;
   padding: 5px;
@@ -17,8 +17,8 @@
   color: #663300;
   width: 75px;
 }
-.buttonStyle:active{
-  border:thin solid #99cc00;
+.buttonStyle:active {
+  border: thin solid #99cc00;
   border-color: #f5ffd2;
   color: #669900;
   cursor: pointer;
